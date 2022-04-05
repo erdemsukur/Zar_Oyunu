@@ -1,0 +1,19 @@
+C:\Users\Lenovo\AppData\Local\Temporary Projects\ZarTahminEtme\bin\Debug\ZarTahminEtme.exe
+C:\Users\Lenovo\AppData\Local\Temporary Projects\ZarTahminEtme\bin\Debug\ZarTahminEtme.pdb
+C:\Users\Lenovo\AppData\Local\Temporary Projects\ZarTahminEtme\obj\x86\Debug\ZarTahminEtme.Properties.Resources.resources
+C:\Users\Lenovo\AppData\Local\Temporary Projects\ZarTahminEtme\obj\x86\Debug\ZarTahminEtme.csproj.GenerateResource.Cache
+C:\Users\Lenovo\AppData\Local\Temporary Projects\ZarTahminEtme\obj\x86\Debug\ZarTahminEtme.exe
+C:\Users\Lenovo\AppData\Local\Temporary Projects\ZarTahminEtme\obj\x86\Debug\ZarTahminEtme.pdb
+C:\Users\Lenovo\AppData\Local\Temporary Projects\ZarTahminEtme\obj\x86\Debug\ZarTahminEtme.asdasd.resources
+C:\Users\Lenovo\AppData\Local\Temporary Projects\ZarTahminEtme\obj\x86\Debug\ZarTahminEtme.Bilgisayar_zar.resources
+C:\Users\Lenovo\AppData\Local\Temporary Projects\ZarTahminEtme\obj\x86\Debug\ZarTahminEtme.iki_kisilik.resources
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\ZarTahminEtme\ZarTahminEtme\obj\x86\Debug\ZarTahminEtme.exe
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\ZarTahminEtme\ZarTahminEtme\obj\x86\Debug\ZarTahminEtme.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\ZarTahminEtme\ZarTahminEtme\bin\Debug\ZarTahminEtme.exe
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\ZarTahminEtme\ZarTahminEtme\bin\Debug\ZarTahminEtme.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\ZarTahminEtme\ZarTahminEtme\obj\x86\Debug\ZarTahminEtme.Bilgisayar_zar.resources
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\ZarTahminEtme\ZarTahminEtme\obj\x86\Debug\ZarTahminEtme.iki_kisilik.resources
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\ZarTahminEtme\ZarTahminEtme\obj\x86\Debug\ZarTahminEtme.Properties.Resources.resources
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\ZarTahminEtme\ZarTahminEtme\obj\x86\Debug\ZarTahminEtme.csproj.GenerateResource.Cache
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\ZarTahminEtme\ZarTahminEtme\obj\x86\Debug\ZarTahminEtme.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\ZarTahminEtme\ZarTahminEtme\obj\x86\Debug\ZarTahminEtme.Form1.resources

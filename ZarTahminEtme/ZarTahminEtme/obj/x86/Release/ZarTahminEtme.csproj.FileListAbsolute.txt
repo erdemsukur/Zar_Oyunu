@@ -1,0 +1,9 @@
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\ZarTahminEtme\ZarTahminEtme\bin\Release\ZarTahminEtme.exe
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\ZarTahminEtme\ZarTahminEtme\bin\Release\ZarTahminEtme.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\ZarTahminEtme\ZarTahminEtme\obj\x86\Release\ZarTahminEtme.Bilgisayar_zar.resources
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\ZarTahminEtme\ZarTahminEtme\obj\x86\Release\ZarTahminEtme.asdasd.resources
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\ZarTahminEtme\ZarTahminEtme\obj\x86\Release\ZarTahminEtme.iki_kisilik.resources
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\ZarTahminEtme\ZarTahminEtme\obj\x86\Release\ZarTahminEtme.Properties.Resources.resources
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\ZarTahminEtme\ZarTahminEtme\obj\x86\Release\ZarTahminEtme.csproj.GenerateResource.Cache
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\ZarTahminEtme\ZarTahminEtme\obj\x86\Release\ZarTahminEtme.exe
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\ZarTahminEtme\ZarTahminEtme\obj\x86\Release\ZarTahminEtme.pdb
